@@ -5,7 +5,7 @@ subtitle: "미래교육연구소" # 부제목
 categories: Book # 생성한 카테고리 title을 입력하세요.(카테고리는 반드시 1개만 입력)
 tags: [METABUS,META MODEL] # 태그는 복수 입력 가능
 banner:
-  video: https://drive.google.com/file/d/1oheJ6q6sa_IVgTKxnduvBBEKyZCPlSmp/view?usp=sharing
+  video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.03
   start_at: 8.5
