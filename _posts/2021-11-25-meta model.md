@@ -55,7 +55,7 @@ banner:
 
 META모델은 ME-**ME**, ME-con**T**ents, ME-**A**nother people 상호작용 3가지 유형 혹은 구성요소인 나를 중심으로나를 대리하는 아바타,다양한 콘텐츠, 나 이외의 다양한 사람이라는 메타버스 내의 다양한 구성요소로 해석이 가능하다.
 
-보다 자세한 내용은 최근 유비온에서 출간한 [**“교육공학자가 말하는 메타버스**”](http://www.yes24.com/Product/Goods/104814669)를 통해서 얻기를 바란다.
+보다 자세한 내용은 최근 유비온에서 출간한 [**“교육공학자가 말하는 메타버스(클릭)**”](http://www.yes24.com/Product/Goods/104814669)를 통해서 얻기를 바란다.
 
 
 ![20211125_meta book.jpg](/assets/images/postimg/20211125_meta book.jpg)
