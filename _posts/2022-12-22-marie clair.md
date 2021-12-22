@@ -1,13 +1,9 @@
 ---
-​---
 layout: post
 title:  "메타버스는 학교를 대체할 수 있을까"
-subtitle: "대학의 오프라인 수업을 중심으로"
-categories: 논문
-tags: [머신러닝,학습분석학,학업성취] # 태그는 복수 입력 가능
-
-​---
-
+subtitle: "MARIE CLAIR"
+categories: 기고
+tags: [METABUS,ARTICLE] # 태그는 복수 입력 가능
 ---
 
 ```
