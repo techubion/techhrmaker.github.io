@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메타버스는 학교를 대체할 수 있을까"
-subtitle: "marie clair"
+subtitle: "메타버스"
 categories: "기사"
 tags: [METABUS,ARTICLE] # 태그는 복수 입력 가능
 ---
