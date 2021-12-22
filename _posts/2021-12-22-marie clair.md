@@ -33,4 +33,4 @@ tags: [METABUS,ARTICLE] # 태그는 복수 입력 가능
 
 ‘하이테크’에 대한 고민이 필요한 시기다
 
-출처 : MARIE CLAIR 2022년 신년사 인터뷰 기사
+출처 : MARIE CLAIR 2022년 신년사 인터뷰 기고 - issue 13 -
