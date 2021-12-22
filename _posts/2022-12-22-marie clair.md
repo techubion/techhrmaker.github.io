@@ -1,15 +1,15 @@
 ---
+
 layout: post
 title:  "메타버스는 학교를 대체할 수 있을까"
 subtitle: "MARIE CLAIR"
 categories: 기고
 tags: [METABUS,ARTICLE] # 태그는 복수 입력 가능
+
 ---
 
-```
-![marie clair.png](/assets/images/postimg/marie clair.png)
-```
 
+![marie clair.png](/assets/images/postimg/marie clair.png)
 <p>메타버스는 학교를 대신할 수 있을까?</p>
 
 김보은 유비온 미래교육연구소장
