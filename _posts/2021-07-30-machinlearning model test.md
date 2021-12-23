@@ -2,7 +2,7 @@
 layout: post
 title:  "머신러닝 기반의 학업성취 예측 모형 탐색"
 subtitle: "대학의 오프라인 수업을 중심으로"
-categories: 논문
+categories: Journal
 tags: [머신러닝,학습분석학,학업성취] # 태그는 복수 입력 가능
 
 ---
