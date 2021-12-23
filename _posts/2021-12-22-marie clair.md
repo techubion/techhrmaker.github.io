@@ -2,7 +2,7 @@
 layout: post
 title:  "메타버스는 학교를 대체할 수 있을까"
 subtitle: "미래교육연구소"
-categories: "Article"
+categories: Article
 tags: [METABUS,ARTICLE] # 태그는 복수 입력 가능
 ---
 
