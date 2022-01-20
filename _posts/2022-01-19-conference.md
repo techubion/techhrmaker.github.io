@@ -27,8 +27,8 @@ tags: [메타버스,스마트에듀,교육] # 태그는 복수 입력 가능
 
 <p></p>      
 
-<object data="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf" type="application/pdf" width="900px" height="700px">
-  <embed src="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf">
-     <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf">Download PDF</a>.</p> -->
+<object data="/assets/images/postimg/conf-20220119_2.pdf" type="application/pdf" width="900px" height="700px">
+  <embed src="/assets/images/postimg//assets/images/postimg/conf-20220119_2.pdf">
+     <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/postimg//assets/images/postimg/conf-20220119_2.pdf">Download PDF</a>.</p> -->
   </embed>   
 </object>
