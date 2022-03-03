@@ -28,4 +28,4 @@ tags: [미래,인공지능,교육] # 태그는 복수 입력 가능
 임재환 한국에듀테크 산업협회 고문
 
 [출처] - 국민일보
-[원본링크] - http://news.kmib.co.kr/article/view.asp?arcid=0924234077
+[**“원본링크(클릭)**”](http://news.kmib.co.kr/article/view.asp?arcid=0924234077) - http://news.kmib.co.kr/article/view.asp?arcid=0924234077
