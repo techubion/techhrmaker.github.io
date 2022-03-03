@@ -29,13 +29,3 @@ tags: [미래,인공지능,교육] # 태그는 복수 입력 가능
 
 [출처] - 국민일보
 [원본링크] - http://news.kmib.co.kr/article/view.asp?arcid=0924234077
-
-
-
-<p></p>      
-
-<object data="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf" type="application/pdf" width="900px" height="700px">
-  <embed src="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf">
-     <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/images/postimg/2021-12-31_An exploration for the direction of synchronous video education platform.pdf">Download PDF</a>.</p> -->
-  </embed>   
-</object>
