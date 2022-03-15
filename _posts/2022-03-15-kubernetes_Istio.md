@@ -5,11 +5,13 @@ subtitle: "Naver Cloud Platform"
 categories: Review
 tags: [kubernetes,Istio,kiali,Grafana,Jaeger,NCP] # 태그는 복수 입력 가능
 
+
 ---
 
 
 - 발표자 : 유비온 IT관리팀장
 - 주    제 : kubnertes & Istio를 활용하여 대용량 서비스를 구축한 사례입니다.
+
 
 
 ![k8s-istio_1.JPG](/assets/images/postimg/k8s-istio_1.JPG)
@@ -45,6 +47,3 @@ tags: [kubernetes,Istio,kiali,Grafana,Jaeger,NCP] # 태그는 복수 입력 가�
 <br><br>
 
 ![k8s-istio_9.JPG](/assets/images/postimg/k8s-istio_9.JPG)
-
-
-
