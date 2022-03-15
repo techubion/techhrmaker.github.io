@@ -11,7 +11,8 @@ tags: [kubernetes,Istio,kiali,Grafana,Jaeger,NCP] # 태그는 복수 입력 가�
 - 발표자 : 유비온 IT관리팀장
 - 주    제 : kubnertes & Istio를 활용하여 대용량 서비스를 구축한 사례입니다.
 
-<p>
+<br>
+<br>
 
 ![k8s-istio_1.JPG](/assets/images/postimg/k8s-istio_1.JPG)
 
