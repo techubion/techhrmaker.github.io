@@ -2,7 +2,7 @@
 layout: post
 title:  "kubernetes & Istio"
 subtitle: "Naver Cloud Platform"
-categories: Review
+categories: Seminar
 tags: [kubernetes,Istio,kiali,Grafana,Jaeger,NCP] # 태그는 복수 입력 가능
 
 
